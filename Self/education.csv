@@ -1,0 +1,121 @@
+region,vector,count,gender,level
+Canada,v_CA16_5100,1200105,Male,None
+Canada,v_CA16_5101,969690,Female,None
+Canada,v_CA16_5103,2247025,Male,High school or equivalent
+Canada,v_CA16_5104,2247565,Female,High school or equivalent
+Canada,v_CA16_5109,1377775,Male,Apprenticeship or trades
+Canada,v_CA16_5110,664655,Female,Apprenticeship or trades
+Canada,v_CA16_5118,1786060,Male,College or equivalent
+Canada,v_CA16_5119,2455920,Female,College or equivalent
+Canada,v_CA16_5121,240035,Male,University below bachelor
+Canada,v_CA16_5122,340850,Female,University below bachelor
+Canada,v_CA16_5130,151210,Male,Cert. or dipl. above bachelor
+Canada,v_CA16_5131,211250,Female,Cert. or dipl. above bachelor
+Canada,v_CA16_5127,1562155,Male,Bachelor's degree
+Canada,v_CA16_5128,2027925,Female,Bachelor's degree
+Canada,v_CA16_5133,74435,Male,Degree in health**
+Canada,v_CA16_5134,78855,Female,Degree in health**
+Canada,v_CA16_5136,527335,Male,Master's degree
+Canada,v_CA16_5137,592850,Female,Master's degree
+Canada,v_CA16_5139,102415,Male,Doctorate*
+Canada,v_CA16_5140,73270,Female,Doctorate*
+Halifax,v_CA16_5100,10520,Male,None
+Halifax,v_CA16_5101,8340,Female,None
+Halifax,v_CA16_5103,25545,Male,High school or equivalent
+Halifax,v_CA16_5104,24080,Female,High school or equivalent
+Halifax,v_CA16_5109,13000,Male,Apprenticeship or trades
+Halifax,v_CA16_5110,5455,Female,Apprenticeship or trades
+Halifax,v_CA16_5118,23355,Male,College or equivalent
+Halifax,v_CA16_5119,30555,Female,College or equivalent
+Halifax,v_CA16_5121,2140,Male,University below bachelor
+Halifax,v_CA16_5122,3160,Female,University below bachelor
+Halifax,v_CA16_5130,1655,Male,Cert. or dipl. above bachelor
+Halifax,v_CA16_5131,2400,Female,Cert. or dipl. above bachelor
+Halifax,v_CA16_5127,22735,Male,Bachelor's degree
+Halifax,v_CA16_5128,30340,Female,Bachelor's degree
+Halifax,v_CA16_5133,1115,Male,Degree in health**
+Halifax,v_CA16_5134,1180,Female,Degree in health**
+Halifax,v_CA16_5136,7065,Male,Master's degree
+Halifax,v_CA16_5137,9970,Female,Master's degree
+Halifax,v_CA16_5139,1605,Male,Doctorate*
+Halifax,v_CA16_5140,1215,Female,Doctorate*
+Toronto,v_CA16_5100,160110,Male,None
+Toronto,v_CA16_5101,156290,Female,None
+Toronto,v_CA16_5103,360435,Male,High school or equivalent
+Toronto,v_CA16_5104,358420,Female,High school or equivalent
+Toronto,v_CA16_5109,97935,Male,Apprenticeship or trades
+Toronto,v_CA16_5110,50055,Female,Apprenticeship or trades
+Toronto,v_CA16_5118,288290,Male,College or equivalent
+Toronto,v_CA16_5119,372080,Female,College or equivalent
+Toronto,v_CA16_5121,44910,Male,University below bachelor
+Toronto,v_CA16_5122,56180,Female,University below bachelor
+Toronto,v_CA16_5130,38320,Male,Cert. or dipl. above bachelor
+Toronto,v_CA16_5131,48835,Female,Cert. or dipl. above bachelor
+Toronto,v_CA16_5127,399455,Male,Bachelor's degree
+Toronto,v_CA16_5128,477015,Female,Bachelor's degree
+Toronto,v_CA16_5133,17060,Male,Degree in health**
+Toronto,v_CA16_5134,19545,Female,Degree in health**
+Toronto,v_CA16_5136,150595,Male,Master's degree
+Toronto,v_CA16_5137,155715,Female,Master's degree
+Toronto,v_CA16_5139,21525,Male,Doctorate*
+Toronto,v_CA16_5140,15920,Female,Doctorate*
+Calgary,v_CA16_5100,36060,Male,None
+Calgary,v_CA16_5101,29610,Female,None
+Calgary,v_CA16_5103,91175,Male,High school or equivalent
+Calgary,v_CA16_5104,88660,Female,High school or equivalent
+Calgary,v_CA16_5109,45710,Male,Apprenticeship or trades
+Calgary,v_CA16_5110,14355,Female,Apprenticeship or trades
+Calgary,v_CA16_5118,69545,Male,College or equivalent
+Calgary,v_CA16_5119,94445,Female,College or equivalent
+Calgary,v_CA16_5121,11800,Male,University below bachelor
+Calgary,v_CA16_5122,16840,Female,University below bachelor
+Calgary,v_CA16_5130,7155,Male,Cert. or dipl. above bachelor
+Calgary,v_CA16_5131,8635,Female,Cert. or dipl. above bachelor
+Calgary,v_CA16_5127,100565,Male,Bachelor's degree
+Calgary,v_CA16_5128,114490,Female,Bachelor's degree
+Calgary,v_CA16_5133,3915,Male,Degree in health**
+Calgary,v_CA16_5134,4495,Female,Degree in health**
+Calgary,v_CA16_5136,30710,Male,Master's degree
+Calgary,v_CA16_5137,30130,Female,Master's degree
+Calgary,v_CA16_5139,5595,Male,Doctorate*
+Calgary,v_CA16_5140,3590,Female,Doctorate*
+Vancouver,v_CA16_5100,58090,Male,None
+Vancouver,v_CA16_5101,53480,Female,None
+Vancouver,v_CA16_5103,168975,Male,High school or equivalent
+Vancouver,v_CA16_5104,170210,Female,High school or equivalent
+Vancouver,v_CA16_5109,67360,Male,Apprenticeship or trades
+Vancouver,v_CA16_5110,26455,Female,Apprenticeship or trades
+Vancouver,v_CA16_5118,112745,Male,College or equivalent
+Vancouver,v_CA16_5119,154880,Female,College or equivalent
+Vancouver,v_CA16_5121,24495,Male,University below bachelor
+Vancouver,v_CA16_5122,34055,Female,University below bachelor
+Vancouver,v_CA16_5130,14735,Male,Cert. or dipl. above bachelor
+Vancouver,v_CA16_5131,21210,Female,Cert. or dipl. above bachelor
+Vancouver,v_CA16_5127,154945,Male,Bachelor's degree
+Vancouver,v_CA16_5128,187290,Female,Bachelor's degree
+Vancouver,v_CA16_5133,7215,Male,Degree in health**
+Vancouver,v_CA16_5134,7280,Female,Degree in health**
+Vancouver,v_CA16_5136,53025,Male,Master's degree
+Vancouver,v_CA16_5137,58310,Female,Master's degree
+Vancouver,v_CA16_5139,10395,Male,Doctorate*
+Vancouver,v_CA16_5140,7295,Female,Doctorate*
+Whitehorse,v_CA16_5100,795,Male,None
+Whitehorse,v_CA16_5101,500,Female,None
+Whitehorse,v_CA16_5103,1465,Male,High school or equivalent
+Whitehorse,v_CA16_5104,1630,Female,High school or equivalent
+Whitehorse,v_CA16_5109,1180,Male,Apprenticeship or trades
+Whitehorse,v_CA16_5110,305,Female,Apprenticeship or trades
+Whitehorse,v_CA16_5118,1375,Male,College or equivalent
+Whitehorse,v_CA16_5119,2015,Female,College or equivalent
+Whitehorse,v_CA16_5121,190,Male,University below bachelor
+Whitehorse,v_CA16_5122,275,Female,University below bachelor
+Whitehorse,v_CA16_5130,115,Male,Cert. or dipl. above bachelor
+Whitehorse,v_CA16_5131,170,Female,Cert. or dipl. above bachelor
+Whitehorse,v_CA16_5127,1290,Male,Bachelor's degree
+Whitehorse,v_CA16_5128,1885,Female,Bachelor's degree
+Whitehorse,v_CA16_5133,80,Male,Degree in health**
+Whitehorse,v_CA16_5134,55,Female,Degree in health**
+Whitehorse,v_CA16_5136,495,Male,Master's degree
+Whitehorse,v_CA16_5137,705,Female,Master's degree
+Whitehorse,v_CA16_5139,45,Male,Doctorate*
+Whitehorse,v_CA16_5140,50,Female,Doctorate*
